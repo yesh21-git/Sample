@@ -1,3 +1,4 @@
 public int Sub(int a, int b)
-int c= a+bj78098765;
+int c= a+b;
+return d
 
